@@ -3,17 +3,16 @@
 
 - 🔭 I have worked on this full stack web app! [EClothes](https://vedkorlavue.netlify.app/)
 
-- 🌱 I’m currently learning **Django REST, Flutter, Vue.js and Firebase**
-
 - 👯 I have also worked on a [Blog Project using Django!](https://vedkorlaproj.pythonanywhere.com/)
+
+- 🌱 I’m currently learning **Django REST, Flutter, Vue.js and Firebase**
 
 - 🤝 I’m looking for help with **roles in full stack development!**
 
 - 💬 Ask me about **Algorithms, Python, JavaScript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/vedrkorla/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/vedrkorla/)</h3>
 <p align="left">
 </p>
 
