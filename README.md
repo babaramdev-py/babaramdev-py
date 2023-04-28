@@ -12,7 +12,7 @@
 - 💬 Ask me about **Algorithms, Python, JavaScript**
 
 
-<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/vedrkorla/)</h3>
+<h3 align="left">Connect with me: <a href = "https://www.linkedin.com/in/vedrkorla/">Linkedin</a></h3>
 <p align="left">
 </p>
 
